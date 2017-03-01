@@ -1,0 +1,33 @@
+baseurl = "https://kristinanetzler.com"
+languageCode = "en"
+title = "Kristina Netzler"
+theme = "hemingway"
+copyright = "&copy; <a href='https://github.com/KristinaNetzler'>Kristina Netzler</a> 2016"
+disqusShortname = "shortname"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://instagram.com/kristinanetzler"
+fa_icon = "fa-instagram"
+
+[[params.social]]
+url = "https://facebook.com/kristina.netzler"
+fa_icon = "fa-facebook"
+
+[[params.social]]
+url = "https://twitter.com/kristinanetzler"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/kristinanetzler/"
+fa_icon = "fa-linkedin"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
