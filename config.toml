@@ -1,6 +1,6 @@
 baseurl = "/"
 copyright = "&copy; <a href='https://github.com/KristinaNetzler'>Kristina Netzler</a> 2016"
-disqusShortname = "shortname"
+disqusShortname = "kristinanetzler"
 googleAnalytics = "UA-92900604-1"
 languageCode = "en"
 theme = "hemingway"
