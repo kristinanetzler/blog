@@ -1,0 +1,25 @@
+baseurl = "/"
+copyright = "&copy; <a href='https://github.com/KristinaNetzler'>Kristina Netzler</a> 2016"
+disqusShortname = "shortname"
+googleAnalytics = "UA-92900604-1"
+languageCode = "en"
+theme = "hemingway"
+title = "Kristina Netzler"
+[params.highlight]
+languages = ["go", "dockerfile"]
+style = "github"
+[[params.social]]
+fa_icon = "fa-instagram"
+url = "https://instagram.com/kristinanetzler"
+[[params.social]]
+fa_icon = "fa-facebook"
+url = "https://facebook.com/kristina.netzler"
+[[params.social]]
+fa_icon = "fa-twitter"
+url = "https://twitter.com/kristinanetzler"
+[[params.social]]
+fa_icon = "fa-linkedin"
+url = "https://www.linkedin.com/in/kristinanetzler/"
+[[params.social]]
+fa_icon = "fa-rss"
+url = "/index.xml"
