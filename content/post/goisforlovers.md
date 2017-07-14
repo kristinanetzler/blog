@@ -2,6 +2,7 @@
 categories = ["Development", "golang"]
 date = "2014-04-02T00:00:00Z"
 description = "This is a test to launching something great."
+draft = true
 tags = ["go", "golang", "templates", "themes", "development"]
 title = "Test"
 [menu.main]
